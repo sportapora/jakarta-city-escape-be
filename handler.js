@@ -38,5 +38,4 @@ const getDestinationsForHomepage = () => ({
 module.exports = {
   getAllDestinations,
   getDestinationsForHomepage,
-  getCarouselImages,
 };
