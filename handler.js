@@ -5,18 +5,6 @@ const getAllDestinations = () => ({
   data: { destinations },
 });
 
-const getCarouselImages = () => {
-  let images = [];
-  for (let i = 0; i < destinations.length; i++) {
-    images.push(destinations[i].image);
-  }
-
-  return {
-    status: "success",
-    data: images,
-  };
-};
-
 const getDestinationsForHomepage = () => ({
   status: "success",
   data: [

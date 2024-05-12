@@ -1,4 +1,4 @@
-const { getAllDestinations, getDestinationsForHomepage, getCarouselImages } = require("./handler");
+const { getAllDestinations, getDestinationsForHomepage } = require("./handler");
 const { destinations } = require("./destinations");
 
 const routes = [
@@ -11,11 +11,6 @@ const routes = [
     method: "GET",
     path: "/jakartacityescape/api/getAllDestinations",
     handler: getAllDestinations,
-  },
-  {
-    method: "GET",
-    path: "/jakartacityescape/api/getCarouselImages",
-    handler: getCarouselImages,
   },
   {
     method: "GET",
