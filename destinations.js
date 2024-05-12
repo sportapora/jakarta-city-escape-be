@@ -21,7 +21,7 @@ const destinations = [
     deskripsi:
       "Bingung menghabiskan waktu liburan dimana? TMII jawabnya! TMII atau Taman Mini Indonesia Indah adalah salah satu tempat wisata yang wajib kalian kunjungi. Bertempat di Jakarta Timur dan memiliki area seluas ±  147 hektare atau 1,47 kilometer persegi.\n\nDestinasi wisata yang mempersembahkan kekayaan budaya, keberagaman serta keindahan alam Nusantara dalam satu tempat. Kalian bisa menikmati perjalanan yang menakjubkan melintasi 34 provinsi, dengan replika bangunan, tarian, dan kebudayaan unik setiap daerah.\n\nDisamping itu, di tengah-tengah TMII terdapat sebuah danau yang menggambarkan miniatur kepulauan Indonesia di tengahnya, kereta gantung, berbagai museum, dan Teater IMAX Keong Mas dan Teater Tanah Airku), berbagai sarana rekreasi ini menjadikan TMIII sebagai salah satu kawasan wisata terkemuka di ibu kota.\n\nMari rasakan keajaiban alam, kekayaan budaya, dan keindahan arsitektur tradisional yang memikat hati di setiap sudutnya. Temukan pesona Indonesia dari Sabang hingga Merauke di Taman Mini Indonesia Indah (TMII)!!!",
     kategori: "Taman Hiburan dan Edukasi",
-    image: "http://localhost:5173/src/assets/tmii.jpg",
+    image: "http://localhost:5173/src/assets/tmii.png",
     images: [
       "http://localhost:5173/src/assets/",
       "http://localhost:5173/src/assets/",
