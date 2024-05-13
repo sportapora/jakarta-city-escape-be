@@ -14,6 +14,7 @@ const destinations = [
       "http://localhost:5173/src/assets/",
       "http://localhost:5173/src/assets/",
     ],
+    route: "http://localhost:5173/src/assets/"
   },
   {
     id: 2,
@@ -29,6 +30,8 @@ const destinations = [
       "http://localhost:5173/src/assets/",
       "http://localhost:5173/src/assets/",
     ],
+    route_jaklingko: "",
+    route_krl: "http://localhost:5173/src/assets/rute-TMII.png",
   },
   {
     id: 3,
