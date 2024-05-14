@@ -35,7 +35,7 @@ const getDestinationsForHomepage = (req, res) => {
         deskripsi:
           "Bingung menghabiskan waktu liburan dimana? TMII jawabnya! TMII atau Taman Mini Indonesia Indah adalah salah satu tempat wisata yang wajib kalian kunjungi. Bertempat di Jakarta Timur dan memiliki area seluas ±  147 hektare atau 1,47 kilometer persegi.",
         kategori: "",
-        image: "/src/assets/tmii.jpg",
+        image: "/src/assets/tmii.png",
       },
     ],
   });
