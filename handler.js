@@ -1,6 +1,7 @@
 const { destinations } = require("./destinations");
 
 const getAllDestinations = (req, res) => {
+  res.status(200);
   res.send({
     status: "success",
     data: { destinations },
@@ -8,6 +9,7 @@ const getAllDestinations = (req, res) => {
 };
 
 const getDestinationsForHomepage = (req, res) => {
+  res.status(200);
   res.send({
     status: "success",
     data: [

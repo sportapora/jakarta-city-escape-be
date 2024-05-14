@@ -4,6 +4,7 @@ const express = require("express");
 const router = express.Router();
 
 router.get("/", (req, res) => {
+  res.status(200);
   res.send("This is the main page of endpoint");
 });
 
@@ -24,7 +25,7 @@ router.get("/getDestination/:destination", (req, res) => {
       data.push(destinations[i]);
     }
   }
-
+  res.status(200);
   res.send({
     status: "success",
     data,
