@@ -1,29 +1,17 @@
-"use strict";
-
 require("dotenv").config();
-const Hapi = require("@hapi/hapi");
-const { routes } = require("./routes");
+const express = require("express");
+const app = express();
+const routes = require("./routes");
 const port = process.env.PORT || 3001;
 
-const init = async () => {
-  const server = Hapi.server({
-    port: port,
-    host: "localhost",
-    routes: {
-      cors: {
-        origin: ["*"],
-      },
-    },
-  });
-  server.route(routes);
+app.use(express.json());
+app.use("/api", routes);
 
-  await server.start();
-  console.log("Server running on %s", server.info.uri);
-};
-
-process.on("unhandledRejection", (err) => {
-  console.error(err);
-  process.exit(1);
+app.listen(port, () => {
+  console.log("Server listening on PORT: ", port);
 });
 
-init();
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).json({ message: "Internal Server Error" });
+});
