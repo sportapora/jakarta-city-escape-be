@@ -1,38 +1,30 @@
 const { getAllDestinations, getDestinationsForHomepage } = require("./handler");
 const { destinations } = require("./destinations");
+const express = require("express");
+const router = express.Router();
 
-const routes = [
-  {
-    method: "GET",
-    path: "/jakartacityescape/api/getDestinationsForHomepage",
-    handler: getDestinationsForHomepage,
-  },
-  {
-    method: "GET",
-    path: "/jakartacityescape/api/getAllDestinations",
-    handler: getAllDestinations,
-  },
-  {
-    method: "GET",
-    path: "/jakartacityescape/api/getDestination/{destination}",
-    handler: (request) => {
-      let data = [];
+router.get("/getDestinationsForHomepage", (req, res) =>
+  getDestinationsForHomepage(req, res)
+);
 
-      for (let i = 0; i < destinations.length; i++) {
-        if (
-          destinations[i].nama.replace(/\s+/g, "-").toLowerCase() ===
-          request.params.destination.replace(/\s+/g, "-").toLowerCase()
-        ) {
-          data.push(destinations[i]);
-        }
-      }
+router.get("/getAllDestinations", (req, res) => getAllDestinations(req, res));
 
-      return {
-        status: "success",
-        data,
-      };
-    },
-  },
-];
+router.get("/getDestination/:destination", (req, res) => {
+  let data = [];
 
-module.exports = { routes };
+  for (let i = 0; i < destinations.length; i++) {
+    if (
+      destinations[i].nama.replace(/\s+/g, "-").toLowerCase() ===
+      req.params.destination.replace(/\s+/g, "-").toLowerCase()
+    ) {
+      data.push(destinations[i]);
+    }
+  }
+
+  res.send({
+    status: "success",
+    data,
+  });
+});
+
+module.exports = router;
