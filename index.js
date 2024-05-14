@@ -8,7 +8,7 @@ const port = process.env.PORT || 3001;
 const init = async () => {
   const server = Hapi.server({
     port: port,
-    host: "0.0.0.0",
+    host: "localhost",
     routes: {
       cors: {
         origin: ["*"],
