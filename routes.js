@@ -3,6 +3,10 @@ const { destinations } = require("./destinations");
 const express = require("express");
 const router = express.Router();
 
+router.get("/", (req, res) => {
+  res.send("This is the main page of endpoint");
+});
+
 router.get("/getDestinationsForHomepage", (req, res) =>
   getDestinationsForHomepage(req, res)
 );
