@@ -9,7 +9,8 @@
     "start": "node dist/bundle.js",
     "eslint": "eslint ./",
     "eslint-fix": "eslint ./ --fix",
-    "build": "webpack"
+    "build": "tsc",
+    "vercel-build": "echo Hello"
   },
   "author": "Henry Salim",
   "license": "ISC",
