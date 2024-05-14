@@ -10,7 +10,8 @@
   "author": "Henry Salim",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^21.3.9"
+    "@hapi/hapi": "^21.3.9",
+    "dotenv": "^16.4.5"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
