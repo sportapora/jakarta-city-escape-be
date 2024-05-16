@@ -15,8 +15,8 @@ const destinations = [
       "/assets/",
       "/assets/",
     ],
-    route_jaklingko: "",
-    route_krl: "/assets/rute-TMII.png",
+    route_jaklingko: "/assets/rute_KotaTuaJakLingko.png",
+    route_krl: "/assets/RuteKotaTuaKRL.png",
   },
   {
     id: 2,
@@ -33,8 +33,8 @@ const destinations = [
       "/assets/",
       "/assets/",
     ],
-    route_jaklingko: "",
-    route_krl: "/assets/rute-TMII.png",
+    route_jaklingko: "/assets/rute_TMII_JakLingko.png",
+    route_krl: "/assets/rute_TMII.png",
   },
   {
     id: 3,
@@ -51,6 +51,8 @@ const destinations = [
       "/assets/",
       "/assets/",
     ],
+    route_jaklingko: "/assests/rute_DufanJakLingko",
+    route_krl: "/assests/DufanKRL.png",
   },
   {
     id: "4",
@@ -67,6 +69,8 @@ const destinations = [
       "/assets/",
       "/assets/",
     ],
+    route_jaklingko: "/assests/rute_DufanJakLingko.png",
+    route_krl: "/assest/rute_DufakKRL.png",
   },
   {
     id: "5",
@@ -83,6 +87,8 @@ const destinations = [
       "/assets/",
       "/assets/",
     ],
+    route_jaklingko: "/assest/rute_MonasJakLingko.png",
+    route_krl: "assests/rute_Monas_masjid_katedral.png",
   },
 ];
 
