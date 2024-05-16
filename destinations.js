@@ -60,7 +60,7 @@ const destinations = [
     deskripsi:
       "Taman Impian Jaya Ancol adalah taman rekreasi tematik terbesar dan terlengkap di Jakarta. Terletak di Jakarta Utara berhadapan dengan Laut Jawa, Taman Impian Jaya Ancol merupakan kawasan resor tepi pantai yang berdiri di atas lahan seluas 80 hektar. Ini adalah sebuah taman rekreasi yang menyediakan berbagai fasilitas, mulai dari olahraga air dan pantai, wahana seru, kolam renang, hingga Eco-Park dan pertunjukan spertakuler bertabur bintang kaliber internasional.\n\nDunia Fantasy (Dufan) menawarkan 27 wahana mengasyikkan, antara lain roller coaster raksasa, air terjun Niagara, Tornado, dan juga Istana Boneka. Di Atlantis Water Adventure terdapat 8 kolam renang berukuran besar yang dilengkapi dengan efek ombak dan wahana seluncur.\n\nAda pula Seaworld, dimana Anda bisa berjalan di bawah terowongan kaca sambil menyaksikan maraknya kehidupan di bawah air. Selain itu, di sini terdapat pula Pasar Seni, Eco-Park, Ocean Park, serta tiga buah hotel berbintang dimana Anda bisa menikmati liburan dan akhir pekan dalam kenyamanan bungalow di tepi pantai atau mengadakan rapat di tempat yang jauh dari hiruk-pikuknya kehidupan kota.\n\nMari kita berpetualang dan jelajahi keanekaragaman atraksi, mulai dari Atlantis Water Adventure hingga keasyikan Dunia Fantasi. Rasakan keseruan yang tiada akhir dan temukan keajaiban lainnya di Taman Impian Jaya Ancol!",
     kategori: "Taman Hiburan",
-    image: "/assets/",
+    image: "/assets/taman_impian_jaya_ancol.png",
     images: [
       "/assets/",
       "/assets/",
