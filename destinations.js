@@ -7,7 +7,7 @@ const destinations = [
     kategori: "Sejarah, Seni & Budaya",
     lokasi: "Jakarta Barat",
     Alamat: "Jl Kalibesar Timur No. 30 Kel. Pinangsia",
-    Instagram: "@kotatua,jkt",
+    instagram: "@kotatua.jkt",
     JamOp: "",
     image: "/assets/kotu-hero.jpg",
     images: [
@@ -28,9 +28,7 @@ const destinations = [
     deskripsi:
       "Bingung menghabiskan waktu liburan dimana? TMII jawabnya! TMII atau Taman Mini Indonesia Indah adalah salah satu tempat wisata yang wajib kalian kunjungi. Bertempat di Jakarta Timur dan memiliki area seluas ±  147 hektare atau 1,47 kilometer persegi.\n\nDestinasi wisata yang mempersembahkan kekayaan budaya, keberagaman serta keindahan alam Nusantara dalam satu tempat. Kalian bisa menikmati perjalanan yang menakjubkan melintasi 34 provinsi, dengan replika bangunan, tarian, dan kebudayaan unik setiap daerah.\n\nDisamping itu, di tengah-tengah TMII terdapat sebuah danau yang menggambarkan miniatur kepulauan Indonesia di tengahnya, kereta gantung, berbagai museum, dan Teater IMAX Keong Mas dan Teater Tanah Airku), berbagai sarana rekreasi ini menjadikan TMIII sebagai salah satu kawasan wisata terkemuka di ibu kota.\n\nMari rasakan keajaiban alam, kekayaan budaya, dan keindahan arsitektur tradisional yang memikat hati di setiap sudutnya. Temukan pesona Indonesia dari Sabang hingga Merauke di Taman Mini Indonesia Indah (TMII)!!!",
     kategori: "Taman Hiburan dan Edukasi",
-    lokasi: "Jakarta Timur",
-    Alamat: "Jl. Taman Mini Indonesia Indah, Ceger, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13820",
-    Instagram: "@tmiiofficial",
+    instagram: "@tmiiofficial",
     JamOp: "05.00 - 20.00 WIB",
     image: "/assets/tmii.png",
     images: [
@@ -51,9 +49,7 @@ const destinations = [
     deskripsi:
       "Habis diputusin pacar atau sedang melewati masa sulit? Mungkin Anda bisa mencoba meluapkan emosi dan rasa kesalmu dengan berteriak di tempat ini! Dufan yang merupakan singkatan dari Dunia Fantasi, menyediakan berbagai wahana permainan yang spektakuler dan menantang.\n\nDufan terdiri dari berbagai kawasan bertema yang menakjubkan. Salah satu yang paling populer adalah Dunia Khayalan yang menampilkan wahana-wahana ekstrem seperti roller coaster Halilintar, Cyclone, dan Bianglala raksasa. Bagi yang kurang menyukai ketinggian, ada pula wahana Terros yang memacu adrenalin dengan jalur melingkar berliku. Tidak ketinggalan pula Dunia Petualangan yang menghadirkan suasana hutan belantara dengan animatronik binatang buas dalam wahana Hutan Kaya.\n\nSetelah merasa lelah dengan wahana ekstrem, Anda dapat bermain wahana komedi putar yang membuat anda lebih rileks sehabis berteriak. Sensasi memutar dan berputar dalam wahana ini akan membantu melepaskan ketegangan dan membuat Anda merasa lebih segar. Nikmati keseruan tanpa batas di taman rekreasi ikonik ini yang akan selalu menyajikan pengalaman tak terlupakan bagi setiap pengunjungnya.",
     kategori: "Taman Hiburan",
-    lokasi: "Jakarta Utara",
-    Alamat: "Jl. Lodan Timur No.7, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
-    Instagram: "@infodufan",
+    instagram: "@infodufan",
     JamOp: "Senin - Jumat	: 10.00 - 17.00 WIB \nSabtu - Minggu : 10.00 - 19.00 WIB",
     image: "/assets/dufan.webp",
     images: [
@@ -93,9 +89,7 @@ const destinations = [
     deskripsi:
       "Siapa yang tidak tahu dengan ikon Utama Kota Jakarta yang satu ini? Monas atau yang dikenal sebagai monument nasional, merupakan salah satu bangunan bersejarah yang diresmikan pada tahun 1961 telah menyimpan banyak sekali cerita sejarah Ibu Kota. Monas sendiri dibangun untuk mengenang dan melestarikan perjuangan bangsa Indonesia pada masa revolusi kemerdekaan 1945, agar membangkitkan inspirasi dan semangat patriotisme generasi saat ini dan mendatang. Dengan tinggi 132 meter serta dihiasi puncak api yang melambangkan semangat dan perjuangan Indonesia menjadikannya sangat cocok sebagai landmark Ibu Kota. Monas juga  tidak hanya menjadi tujuan wisata populer bagi wisatawan lokal dan internasional, tetapi juga menjadi tempat untuk berbagai acara dan perayaan nasional, seperti peringatan Hari Kemerdekaan Indonesia pada tanggal 17 Agustus setiap tahunnya. Sebagai simbol nasional, Monas memiliki nilai historis dan simbolis yang sangat penting bagi bangsa Indonesia. Monas juga menjadi pusat kegiatan budaya dan acara-acara nasional, seperti perayaan Hari Kemerdekaan Indonesia yang diadakan setiap tahunnya. Dengan sejarahnya yang kaya dan pemandangannya yang menakjubkan, Monas tetap menjadi destinasi yang wajib dikunjungi bagi siapa pun yang ingin mengenal lebih dekat keindahan dan keberagaman Indonesia.",
     kategori: "Taman Hiburan dan Edukasi",
-    lokasi: "Jakarta Pusat",
-    Alamat: "RT.5/RW.2, Gambir, Central Jakarta City, Jakarta 10110",
-    Instagram: "@monumen.nasional",
+    instagram: "@monumen.nasional",
     JamOp: "Selasa - Minggu : 08.00 - 15.00 [Tugu Monas], 06.00 - 16.00 [Kawasan Monas]",
     image: "/assets/monas.jpg",
     images: [
@@ -117,7 +111,7 @@ const destinations = [
     kategori: "Agama",
     lokasi: "Jakarta Pusat",
     Alamat: "Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
-    Instagram: "@masjidistiqlal.official",
+    instagram: "@masjidistiqlal.official",
     JamOp: "04:00 - 21:00 WIB",
     image: "/assets/istiqlal.webp",
     images: [
@@ -136,7 +130,7 @@ const destinations = [
     kategori: "Agama",
     lokasi: "Jakarta Pusat",
     Alamat: "Jl. Katedral No.7B, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
-    Instagram: "@katedraljakarta",
+    instagram: "@katedraljakarta",
     JamOp: "Senin			: Tutup \nSelasa - Sabtu	: 10.00 - 16.00 WIB \nMinggu		: Sesuai perjanjian",
     image: "/assets/katedral.png",
     images: [
@@ -155,7 +149,7 @@ const destinations = [
     kategori: "Rekreasi",
     lokasi: "Jakarta Pusat",
     Alamat: "Jl. Katedral No.7B, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
-    Instagram: "@hutankota.gbk",
+    instagram: "@hutankota.gbk",
     JamOp: "Selasa - Minggu	: 06.00-10.00 WIB dan 15.00-18.00 WIB.",
     image: "/assets/hutangbk.png",
     images: [
@@ -174,7 +168,7 @@ const destinations = [
     kategori: "Rekreasi",
     lokasi: "Jakarta Pusat",
     Alamat: "Jalan Garden House, Kamal Muara, Kecamatan Penjaringan, Daerah Khusus Ibukota Jakarta 14470, Indonesia.",
-    Instagram: "@twa_mangrove",
+    instagram: "@twa_mangrove",
     JamOp: "08.00 WIB - 17.30 WIB.",
     image: "/assets/Mangrove.jpeg",
     images: [
@@ -193,7 +187,7 @@ const destinations = [
     kategori: "Rekreasi",
     lokasi: "Jakarta Utara",
     Alamat: "Pantjoran PIK, Daerah Khusus Ibukota Jakarta 14460, Indonesia.",
-    Instagram: "@pantjoranpik",
+    instagram: "@pantjoranpik",
     JamOp: "Selasa - Minggu : 07.00 - 23.00 WIB.",
     image: "/assets/PIK.jpg",
     images: [
