@@ -48,9 +48,10 @@ const destinations = [
     lokasi: "Jakarta Utara",
     deskripsi:
       "Habis diputusin pacar atau sedang melewati masa sulit? Mungkin Anda bisa mencoba meluapkan emosi dan rasa kesalmu dengan berteriak di tempat ini! Dufan yang merupakan singkatan dari Dunia Fantasi, menyediakan berbagai wahana permainan yang spektakuler dan menantang.\n\nDufan terdiri dari berbagai kawasan bertema yang menakjubkan. Salah satu yang paling populer adalah Dunia Khayalan yang menampilkan wahana-wahana ekstrem seperti roller coaster Halilintar, Cyclone, dan Bianglala raksasa. Bagi yang kurang menyukai ketinggian, ada pula wahana Terros yang memacu adrenalin dengan jalur melingkar berliku. Tidak ketinggalan pula Dunia Petualangan yang menghadirkan suasana hutan belantara dengan animatronik binatang buas dalam wahana Hutan Kaya.\n\nSetelah merasa lelah dengan wahana ekstrem, Anda dapat bermain wahana komedi putar yang membuat anda lebih rileks sehabis berteriak. Sensasi memutar dan berputar dalam wahana ini akan membantu melepaskan ketegangan dan membuat Anda merasa lebih segar. Nikmati keseruan tanpa batas di taman rekreasi ikonik ini yang akan selalu menyajikan pengalaman tak terlupakan bagi setiap pengunjungnya.",
-    kategori: "Taman Hiburan",
+    kategori: "Rekreasi",
     instagram: "@infodufan",
-    jamOp: "Senin - Jumat	: 10.00 - 17.00 WIB \nSabtu - Minggu : 10.00 - 19.00 WIB",
+    jamOp:
+      "Senin - Jumat	: 10.00 - 17.00 WIB \nSabtu - Minggu : 10.00 - 19.00 WIB",
     image: "/assets/dufan.webp",
     images: [
       "/assets/dufan.webp",
@@ -69,7 +70,7 @@ const destinations = [
     lokasi: "Jakarta Utara",
     deskripsi:
       "Taman Impian Jaya Ancol adalah taman rekreasi tematik terbesar dan terlengkap di Jakarta. Terletak di Jakarta Utara berhadapan dengan Laut Jawa, Taman Impian Jaya Ancol merupakan kawasan resor tepi pantai yang berdiri di atas lahan seluas 80 hektar. Ini adalah sebuah taman rekreasi yang menyediakan berbagai fasilitas, mulai dari olahraga air dan pantai, wahana seru, kolam renang, hingga Eco-Park dan pertunjukan spertakuler bertabur bintang kaliber internasional.\n\nDunia Fantasy (Dufan) menawarkan 27 wahana mengasyikkan, antara lain roller coaster raksasa, air terjun Niagara, Tornado, dan juga Istana Boneka. Di Atlantis Water Adventure terdapat 8 kolam renang berukuran besar yang dilengkapi dengan efek ombak dan wahana seluncur.\n\nAda pula Seaworld, dimana Anda bisa berjalan di bawah terowongan kaca sambil menyaksikan maraknya kehidupan di bawah air. Selain itu, di sini terdapat pula Pasar Seni, Eco-Park, Ocean Park, serta tiga buah hotel berbintang dimana Anda bisa menikmati liburan dan akhir pekan dalam kenyamanan bungalow di tepi pantai atau mengadakan rapat di tempat yang jauh dari hiruk-pikuknya kehidupan kota.\n\nMari kita berpetualang dan jelajahi keanekaragaman atraksi, mulai dari Atlantis Water Adventure hingga keasyikan Dunia Fantasi. Rasakan keseruan yang tiada akhir dan temukan keajaiban lainnya di Taman Impian Jaya Ancol!",
-    kategori: "Taman Hiburan",
+    kategori: "Rekreasi",
     image: "/assets/taman_impian_jaya_ancol.png",
     images: [
       "/assets/ancol1.webp",
@@ -90,7 +91,8 @@ const destinations = [
       "Siapa yang tidak tahu dengan ikon Utama Kota Jakarta yang satu ini? Monas atau yang dikenal sebagai monument nasional, merupakan salah satu bangunan bersejarah yang diresmikan pada tahun 1961 telah menyimpan banyak sekali cerita sejarah Ibu Kota. Monas sendiri dibangun untuk mengenang dan melestarikan perjuangan bangsa Indonesia pada masa revolusi kemerdekaan 1945, agar membangkitkan inspirasi dan semangat patriotisme generasi saat ini dan mendatang. Dengan tinggi 132 meter serta dihiasi puncak api yang melambangkan semangat dan perjuangan Indonesia menjadikannya sangat cocok sebagai landmark Ibu Kota. Monas juga  tidak hanya menjadi tujuan wisata populer bagi wisatawan lokal dan internasional, tetapi juga menjadi tempat untuk berbagai acara dan perayaan nasional, seperti peringatan Hari Kemerdekaan Indonesia pada tanggal 17 Agustus setiap tahunnya. Sebagai simbol nasional, Monas memiliki nilai historis dan simbolis yang sangat penting bagi bangsa Indonesia. Monas juga menjadi pusat kegiatan budaya dan acara-acara nasional, seperti perayaan Hari Kemerdekaan Indonesia yang diadakan setiap tahunnya. Dengan sejarahnya yang kaya dan pemandangannya yang menakjubkan, Monas tetap menjadi destinasi yang wajib dikunjungi bagi siapa pun yang ingin mengenal lebih dekat keindahan dan keberagaman Indonesia.",
     kategori: "Taman Hiburan dan Edukasi",
     instagram: "@monumen.nasional",
-    jamOp: "Selasa - Minggu : 08.00 - 15.00 [Tugu Monas], 06.00 - 16.00 [Kawasan Monas]",
+    jamOp:
+      "Selasa - Minggu : 08.00 - 15.00 [Tugu Monas], 06.00 - 16.00 [Kawasan Monas]",
     image: "/assets/monas.jpg",
     images: [
       "/assets/monas1.jpg",
@@ -110,17 +112,12 @@ const destinations = [
       "Masjid Istiqlal di Jakarta, Indonesia adalah masjid terbesar di Asia Tenggara dan masjid terbesar kesembilan di dunia dalam hal kapasitas jamaah. Dibangun untuk memperingati kemerdekaan Indonesia, masjid nasional Indonesia ini diberi nama 'Istiqlal', sebuah kata Arab untuk 'kemerdekaan'.",
     kategori: "Agama",
     lokasi: "Jakarta Pusat",
-    Alamat: "Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+    Alamat:
+      "Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
     instagram: "@masjidistiqlal.official",
     jamOp: "04:00 - 21:00 WIB",
     image: "/assets/istiqlal.webp",
-    images: [
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-    ],
+    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
   },
   {
     id: "7",
@@ -129,17 +126,13 @@ const destinations = [
       "Katedral Jakarta adalah sebuah katedral Katolik Roma di Jakarta, Indonesia, yang juga merupakan tempat kedudukan Uskup Agung Katolik Roma Jakarta, yang saat ini menjabat sebagai Uskup Agung Ignatius Suharyo Hardjoatmodjo.",
     kategori: "Agama",
     lokasi: "Jakarta Pusat",
-    Alamat: "Jl. Katedral No.7B, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+    Alamat:
+      "Jl. Katedral No.7B, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
     instagram: "@katedraljakarta",
-    jamOp: "Senin			: Tutup \nSelasa - Sabtu	: 10.00 - 16.00 WIB \nMinggu		: Sesuai perjanjian",
+    jamOp:
+      "Senin			: Tutup \nSelasa - Sabtu	: 10.00 - 16.00 WIB \nMinggu		: Sesuai perjanjian",
     image: "/assets/katedral.png",
-    images: [
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-    ],
+    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
   },
   {
     id: "8",
@@ -148,17 +141,12 @@ const destinations = [
       "Area hijau dengan beragam lapangan olahraga & stadion bisbol, serta restoran & area piknik.",
     kategori: "Rekreasi",
     lokasi: "Jakarta Pusat",
-    Alamat: "Jl. Katedral No.7B, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+    Alamat:
+      "Jl. Katedral No.7B, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
     instagram: "@hutankota.gbk",
     jamOp: "Selasa - Minggu	: 06.00-10.00 WIB dan 15.00-18.00 WIB.",
     image: "/assets/hutangbk.png",
-    images: [
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-    ],
+    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
   },
   {
     id: "9",
@@ -167,17 +155,12 @@ const destinations = [
       "Suaka margasatwa ini memiliki banyak pohon bakau, binatang-binatang seperti monyet, dan beragam burung.",
     kategori: "Rekreasi",
     lokasi: "Jakarta Pusat",
-    Alamat: "Jalan Garden House, Kamal Muara, Kecamatan Penjaringan, Daerah Khusus Ibukota Jakarta 14470, Indonesia.",
+    Alamat:
+      "Jalan Garden House, Kamal Muara, Kecamatan Penjaringan, Daerah Khusus Ibukota Jakarta 14470, Indonesia.",
     instagram: "@twa_mangrove",
     jamOp: "08.00 WIB - 17.30 WIB.",
     image: "/assets/Mangrove.jpeg",
-    images: [
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-    ],
+    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
   },
   {
     id: "10",
@@ -190,13 +173,7 @@ const destinations = [
     instagram: "@pantjoranpik",
     jamOp: "Selasa - Minggu : 07.00 - 23.00 WIB.",
     image: "/assets/PIK.jpg",
-    images: [
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-      "/assets/",
-    ],
+    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
   },
 ];
 
