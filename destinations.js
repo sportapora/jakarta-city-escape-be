@@ -8,7 +8,7 @@ const destinations = [
     lokasi: "Jakarta Barat",
     Alamat: "Jl Kalibesar Timur No. 30 Kel. Pinangsia",
     instagram: "@kotatua.jkt",
-    jamOp: "",
+    jamOp: "08.00 - 21.00 WIB",
     image: "/assets/kotu-hero.jpg",
     images: [
       "/assets/kotu.png",
@@ -48,7 +48,6 @@ const destinations = [
     lokasi: "Jakarta Utara",
     deskripsi:
       "Habis diputusin pacar atau sedang melewati masa sulit? Nah, Anda bisa mencoba meluapkan emosi dan rasa kesal dengan berteriak di tempat ini! Dufan yang merupakan singkatan dari Dunia Fantasi, menyediakan berbagai wahana permainan yang spektakuler dan menantang.\n\nDufan terdiri dari berbagai kawasan bertema yang menakjubkan. Beberapa wahana yang paling populer adalah wahana ekstrem seperti roller coaster Halilintar, Cyclone, dan Bianglala raksasa. Adapun Dunia Petualangan yang menghadirkan suasana hutan belantara dengan animatronik binatang buas dalam wahana Hutan Kaya.\n\nSetelah merasa lelah dengan wahana ekstrem, Anda dapat bermain wahana komedi putar yang membuat anda lebih rileks sehabis berteriak. Nikmati keseruannya di taman rekreasi ini yang akan selalu menyajikan pengalaman tak terlupakan bagi setiap pengunjungnya.",
-    kategori: "Taman Hiburan",
     kategori: "Rekreasi",
     instagram: "@infodufan",
     jamOp:
@@ -71,8 +70,6 @@ const destinations = [
     lokasi: "Jakarta Utara",
     deskripsi:
       "Taman Impian Jaya Ancol adalah taman rekreasi tematik terbesar dan terlengkap di Jakarta. Terletak di Jakarta Utara berhadapan dengan Laut Jawa, Taman Impian Jaya Ancol merupakan kawasan resor tepi pantai yang berdiri di atas lahan seluas 80 hektar. Taman rekreasi ini menyediakan berbagai fasilitas, mulai dari olahraga air dan pantai, wahana seru, kolam renang, hingga Eco-Park dan pertunjukan spertakuler bertabur bintang kaliber internasional.\n\nDunia Fantasi (Dufan) menawarkan 27 wahana mengasyikkan, antara lain roller coaster raksasa, air terjun Niagara, Tornado, dan juga Istana Boneka. Di Atlantis Water Adventure terdapat 8 kolam renang berukuran besar yang dilengkapi dengan efek ombak dan wahana seluncur.\n\nAda pula Seaworld, dimana Anda bisa berjalan di bawah terowongan kaca sambil menyaksikan maraknya kehidupan di bawah air. Selain itu, terdapat Pasar Seni, Eco-Park, Ocean Park, serta tiga buah hotel berbintang dimana Anda bisa menikmati liburan dan akhir pekan dalam kenyamanan di tepi pantai.\n\nMari kita berpetualang dan jelajahi keajaiban lainnya di Taman Impian Jaya Ancol!",
-    kategori: "Taman Hiburan",
-    image: "/assets/",
     kategori: "Rekreasi",
     image: "/assets/taman_impian_jaya_ancol.png",
     images: [
@@ -92,7 +89,6 @@ const destinations = [
     lokasi: "Jakarta Pusat",
     deskripsi:
       "Siapa yang tidak tahu dengan ikon Utama Kota Jakarta yang satu ini? Monas atau yang dikenal sebagai monumen nasional, merupakan salah satu bangunan bersejarah yang diresmikan pada tahun 1961 telah menyimpan banyak sekali cerita sejarah Ibu Kota. Monas dibangun sebagai bentuk mengenang dan melestarikan perjuangan bangsa Indonesia pada masa revolusi kemerdekaan 1945, agar membangkitkan inspirasi dan semangat patriotisme generasi saat ini dan mendatang. Didesain dengan tinggi 132 meter serta dihiasi puncak api yang melambangkan semangat dan perjuangan Indonesia menjadikannya sangat cocok sebagai landmark Ibu Kota. Monas juga tidak hanya menjadi tujuan wisata populer bagi wisatawan lokal dan internasional, tetapi juga menjadi tempat untuk berbagai acara dan perayaan nasional, seperti peringatan Hari Kemerdekaan Indonesia pada tanggal 17 Agustus setiap tahun. Sebagai simbol nasional, Monas memiliki nilai sejarah dan simbolis yang kuat bagi bangsa Indonesia. Monas juga menjadi pusat kegiatan budaya dan acara-acara nasional, seperti perayaan Hari Kemerdekaan Indonesia yang diadakan setiap tahun. Dengan sejarah yang kaya dan pemandangannya yang indah, Monas tetap menjadi destinasi yang wajib dikunjungi bagi siapa pun yang ingin mengenal lebih dekat keindahan dan keberagaman Indonesia.",
-    kategori: "Taman Hiburan",
     kategori: "Taman Hiburan dan Edukasi",
     instagram: "@monumen.nasional",
     jamOp:
