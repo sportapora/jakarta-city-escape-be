@@ -102,8 +102,8 @@ const destinations = [
       "/assets/monas5.jpeg",
       "/assets/monas.jpg",
     ],
-    route_jaklingko: "/assest/rute_MonasJakLingko.png",
-    route_krl: "assests/rute_Monas_masjid_katedral.png",
+    route_jaklingko: "/assets/rute_MonasJakLingko.png",
+    route_krl: "/assets/rute_Monas_masjid_katedral.png",
   },
   {
     id: "6",
@@ -118,6 +118,8 @@ const destinations = [
     jamOp: "04:00 - 21:00 WIB",
     image: "/assets/istiqlal.webp",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/ruteJakLingko_masjid.png",
+    route_krl: "/assets/rute_Monas_masjid_katedral.png",
   },
   {
     id: "7",
@@ -133,6 +135,8 @@ const destinations = [
       "Senin			: Tutup \nSelasa - Sabtu	: 10.00 - 16.00 WIB \nMinggu		: Sesuai perjanjian",
     image: "/assets/katedral.png",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/ruteJakLingko_masjid.png",
+    route_krl: "/assets/rute_Monas_masjid_katedral.png",
   },
   {
     id: "8",
@@ -147,6 +151,8 @@ const destinations = [
     jamOp: "Selasa - Minggu	: 06.00-10.00 WIB dan 15.00-18.00 WIB.",
     image: "/assets/hutangbk.png",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/ruteHutanKota_JakLingko.png",
+    route_krl: "/assets/ruteHutanKotaKRL.png",
   },
   {
     id: "9",
@@ -161,6 +167,8 @@ const destinations = [
     jamOp: "08.00 WIB - 17.30 WIB.",
     image: "/assets/Mangrove.jpeg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/rute_AngkeMangrove.png",
+    route_krl: "/assets/",
   },
   {
     id: "10",
@@ -174,6 +182,8 @@ const destinations = [
     jamOp: "Selasa - Minggu : 07.00 - 23.00 WIB.",
     image: "/assets/PIK.jpg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/ruteJakLingko_PIK.png",
+    route_krl: "/assets/",
   },
 ];
 
