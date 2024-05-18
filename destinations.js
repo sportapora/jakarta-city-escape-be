@@ -32,7 +32,7 @@ const destinations = [
     jamOp: "05.00 - 20.00 WIB",
     image: "/assets/tmii.png",
     images: [
-      "/assets/tmii_island.png",
+      "/assets/tmii.png",
       "/assets/TMII1.jpeg",
       "/assets/TMII2.jpg",
       "/assets/TMII3.jpeg",
