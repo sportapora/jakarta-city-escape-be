@@ -227,6 +227,8 @@ const destinations = [
       "/assets/ragunan3.jpg",
       "/assets/ragunan4.jpg",
     ],
+    route_jaklingko: "/assets/ruteJakLingkoRagunan.png",
+    route_krl: "/assets/ruteRagunanKRL.png",
   },
   {
     id: "12",
@@ -245,6 +247,8 @@ const destinations = [
       "/assets/museumNasional3.jpg",
       "/assets/museumNasional4.jpg",
     ],
+    route_jaklingko: "/assets/rute_MonasJakLingko.png",
+    route_krl: "/assets/rute_Monas_masjid_katedral.png",
   },
   {
     id: "13",
@@ -263,6 +267,8 @@ const destinations = [
       "/assets/museumbi4.png", 
       "/assets/museumbi5.png", 
     ],
+    route_jaklingko: "/assets/ruteJakLingkoMuseumBankIndo.png",
+    route_krl: "/assets/ruteMuseumIndoKRL.png",
   },
   {
     id: "14",
@@ -281,6 +287,8 @@ const destinations = [
       "/assets/tekstil4.png", 
       "/assets/tekstil5.png",
     ],
+    route_jaklingko: "/assets/ruteJakLingkoTekstil.png",
+    route_krl: "/assets/ruteTekstilKRL.png",
   },
   {
     id: "15",
@@ -299,6 +307,8 @@ const destinations = [
       "/assets/MOJA4.jpg", 
       "/assets/MOJA5.jpg", 
     ],
+    route_jaklingko: "/assets/ruteHutanKota_JakLingko.png",
+    route_krl: "/assets/ruteHutanKotaKRL.png",
   },
   {
     id: "16",
@@ -309,7 +319,7 @@ const destinations = [
     lokasi: "Jakarta Utara",
     instagram: "@pasarseni_ancol",
     JamOp: "Senin - Minggu : 10.00 - 21.00 WIB",
-    image: "/assets/pasarseni.jpeg",
+    image: "/assets/pasarseni.jpg",
     images: [
       "/assets/pasarseni1.jpg", 
       "/assets/pasarseni2.jpg", 
@@ -317,6 +327,8 @@ const destinations = [
       "/assets/pasarseni4.png", 
       "/assets/pasarseni5.jpg",
     ],
+    route_jaklingko: "/assets/rute_DufanJakLingko.png",
+    route_krl: "/assets/rute_DufakKRL.png",
   },
   {
     id: "17",
@@ -335,6 +347,8 @@ const destinations = [
       "/assets/SION4.jpg", 
       "/assets/SION5.jpg", 
     ],
+    route_jaklingko: "/assets/rute_KotaTuaJakLingko.png",
+    route_krl: "/assets/RuteKotaTuaKRL.png",
   },
   {
     id: "18",
@@ -353,6 +367,8 @@ const destinations = [
       "/assets/layang4.jpg", 
       "/assets/layang5.jpg", 
     ],
+    route_jaklingko: "/assets/",
+    route_krl: "/assets/ruteLayang.png",
   },
   {
     id: "19",
@@ -363,7 +379,7 @@ const destinations = [
     lokasi: "Jakarta Utara",
     instagram: "@kabupatenkepulauanseribu",
     JamOp: "08.00 - 18.00 WIB",
-    image: "/assets/seribu.jpeg",
+    image: "/assets/seribu.jpg",
     images: [
       "/assets/seribu1.jpg", 
       "/assets/seribu2.jpg", 
@@ -389,6 +405,8 @@ const destinations = [
       "/assets/KERAMIK4.jpg", 
       "/assets/KERAMIK5.jpg", 
     ],
+    route_jaklingko: "/assets/rute_KotaTuaJakLingko.png",
+    route_krl: "/assets/RuteKotaTuaKRL.png",
   },
 ];
 
