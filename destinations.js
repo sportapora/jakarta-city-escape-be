@@ -192,6 +192,8 @@ const destinations = [
       "/assets/ragunan3.jpg",
       "/assets/ragunan4.jpg",
     ],
+    route_jaklingko: "/assets/ruteJakLingkoRagunan.png",
+    route_krl: "/assets/ruteRagunanKRL.png",
   },
   {
     id: "12",
@@ -210,6 +212,8 @@ const destinations = [
       "/assets/museumNasional3.jpg",
       "/assets/museumNasional4.jpg",
     ],
+    route_jaklingko: "/assets/rute_MonasJakLingko.png",
+    route_krl: "/assets/rute_Monas_masjid_katedral.png",
   },
   {
     id: "13",
@@ -222,6 +226,8 @@ const destinations = [
     JamOp: "Selasa - Minggu : 08.00 - 15.30 WIB",
     image: "/assets/museumbi.jpg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/ruteJakLingkoMuseumBankIndo.png",
+    route_krl: "/assets/ruteMuseumIndoKRL.png",
   },
   {
     id: "14",
@@ -234,6 +240,8 @@ const destinations = [
     JamOp: "Selasa - Minggu : 09.00 - 15.00 WIB",
     image: "/assets/tekstil.jpg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/ruteJakLingkoTekstil.png",
+    route_krl: "/assets/ruteTekstilKRL.png",
   },
   {
     id: "15",
@@ -246,6 +254,8 @@ const destinations = [
     JamOp: "Senin - Minggu : 11.00 - 19.30 WIB",
     image: "/assets/MOJA.jpg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/ruteHutanKota_JakLingko.png",
+    route_krl: "/assets/ruteHutanKotaKRL.png", 
   },
   {
     id: "16",
@@ -258,6 +268,8 @@ const destinations = [
     JamOp: "Senin - Minggu : 10.00 - 21.00 WIB",
     image: "/assets/pasarseni.jpeg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/rute_DufanJakLingko.png",
+    route_krl: "/assets/rute_DufakKRL.png",
   },
   {
     id: "17",
@@ -270,6 +282,8 @@ const destinations = [
     JamOp: "Minggu : 07.00 & 10.00 WIB",
     image: "/assets/SION.jpg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/rute_KotaTuaJakLingko.png",
+    route_krl: "/assets/RuteKotaTuaKRL.png",
   },
   {
     id: "18",
@@ -282,6 +296,8 @@ const destinations = [
     JamOp: "Senin - Minggu : 09.00 - 16.00 WIB",
     image: "/assets/layang.jpeg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/",
+    route_krl: "/assets/ruteLayang.png",
   },
   {
     id: "19",
@@ -306,6 +322,8 @@ const destinations = [
     JamOp: "Selasa - Minggu : 09.00 - 15.00 WIB",
     image: "/assets/KERAMIK.jpeg",
     images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    route_jaklingko: "/assets/rute_KotaTuaJakLingko.png",
+    route_krl: "/assets/RuteKotaTuaKRL.png",
   },
 ];
 
