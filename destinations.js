@@ -256,7 +256,13 @@ const destinations = [
     instagram: "@museum_bi",
     JamOp: "Selasa - Minggu : 08.00 - 15.30 WIB",
     image: "/assets/museumbi.jpg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    images: [
+      "/assets/museumbi1.jpg", 
+      "/assets/museumbi2.jpg", 
+      "/assets/museumbi3.png", 
+      "/assets/museumbi4.png", 
+      "/assets/museumbi5.png", 
+    ],
   },
   {
     id: "14",
@@ -268,7 +274,13 @@ const destinations = [
     instagram: "@museum_tekstiljkt",
     JamOp: "Selasa - Minggu : 09.00 - 15.00 WIB",
     image: "/assets/tekstil.jpg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    images: [
+      "/assets/tekstil1.png", 
+      "/assets/tekstil2.jpg", 
+      "/assets/tekstil3.png", 
+      "/assets/tekstil4.png", 
+      "/assets/tekstil5.png",
+    ],
   },
   {
     id: "15",
@@ -280,7 +292,13 @@ const destinations = [
     instagram: "@mojamuseum",
     JamOp: "Senin - Minggu : 11.00 - 19.30 WIB",
     image: "/assets/MOJA.jpg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    images: [
+      "/assets/MOJA1.jpeg", 
+      "/assets/MOJA2.jpg", 
+      "/assets/MOJA3.jpg", 
+      "/assets/MOJA4.jpg", 
+      "/assets/MOJA5.jpg", 
+    ],
   },
   {
     id: "16",
@@ -292,7 +310,13 @@ const destinations = [
     instagram: "@pasarseni_ancol",
     JamOp: "Senin - Minggu : 10.00 - 21.00 WIB",
     image: "/assets/pasarseni.jpeg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    images: [
+      "/assets/pasarseni1.jpg", 
+      "/assets/pasarseni2.jpg", 
+      "/assets/pasarseni3.jpg", 
+      "/assets/pasarseni4.png", 
+      "/assets/pasarseni5.jpg",
+    ],
   },
   {
     id: "17",
@@ -304,7 +328,13 @@ const destinations = [
     instagram: "@gpibsionjkt",
     JamOp: "Minggu : 07.00 & 10.00 WIB",
     image: "/assets/SION.jpg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    images: [
+      "/assets/SION1.jpg", 
+      "/assets/SION2.jpg", 
+      "/assets/SION3.png", 
+      "/assets/SION4.jpg", 
+      "/assets/SION5.jpg", 
+    ],
   },
   {
     id: "18",
@@ -315,8 +345,14 @@ const destinations = [
     lokasi: "Jakarta Selatan",
     instagram: "@museumlayanglayang.id",
     JamOp: "Senin - Minggu : 09.00 - 16.00 WIB",
-    image: "/assets/layang.jpeg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    image: "/assets/layang.jpg",
+    images: [
+      "/assets/layang1.jpg", 
+      "/assets/layang2.jpg", 
+      "/assets/layang3.jpg", 
+      "/assets/layang4.jpg", 
+      "/assets/layang5.jpg", 
+    ],
   },
   {
     id: "19",
@@ -328,7 +364,13 @@ const destinations = [
     instagram: "@kabupatenkepulauanseribu",
     JamOp: "08.00 - 18.00 WIB",
     image: "/assets/seribu.jpeg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    images: [
+      "/assets/seribu1.jpg", 
+      "/assets/seribu2.jpg", 
+      "/assets/seribu3.jpg",  
+      "/assets/seribu4.jpg",  
+      "/assets/seribu5.jpeg", 
+    ],
   },
   {
     id: "20",
@@ -340,7 +382,13 @@ const destinations = [
     instagram: "@museum_keramikjkt",
     JamOp: "Selasa - Minggu : 09.00 - 15.00 WIB",
     image: "/assets/KERAMIK.jpg",
-    images: ["/assets/", "/assets/", "/assets/", "/assets/", "/assets/"],
+    images: [
+      "/assets/KERAMIK1.jpg", 
+      "/assets/KERAMIK2.jpg", 
+      "/assets/KERAMIK3.jpg", 
+      "/assets/KERAMIK4.jpg", 
+      "/assets/KERAMIK5.jpg", 
+    ],
   },
 ];
 
